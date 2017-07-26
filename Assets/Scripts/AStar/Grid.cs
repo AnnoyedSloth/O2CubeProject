@@ -38,9 +38,9 @@ namespace UltimateIsometricToolkit.controller
             {
                 for (int y = 0; y < gridSizeY; y++)
                 {
-                    //Vector3 worldPoint = worldBottomLeft + Vector3.right * (x * Mathf.RoundToInt(_GridTransform.Position.x) * nodeDiameter + nodeRadius) + Vector3.up * (y * Mathf.RoundToInt(_GridTransform.Position.z) * nodeDiameter + nodeRadius);
-                    Vector3 worldPoint = worldBottomLeft + _GridTransform.XAxis * (x * nodeDiameter + nodeRadius) + _GridTransform.ZAxis * (y * nodeDiameter + nodeRadius);
-                    Debug.Log(x * nodeDiameter + nodeRadius);
+                    //Vector3 worldPoint = worldBottomLeft + Vector3.right * (x * nodeDiameter + nodeRadius) + Vector3.up * (y * nodeDiameter + nodeRadius);
+                    Vector3 worldPoint = worldBottomLeft + _GridTransform.Axis(new Vector3(x, y, 0) * (nodeDiameter + nodeRadius));
+                    Debug.Log(_GridTransform.Position.x + ", " + _GridTransform.Position.y);
                     bool walkable = !(Physics.CheckSphere(worldPoint, nodeRadius, unwalkableMask));
                     grid[x, y] = new Node(walkable, worldPoint); // 좌표 isometric으로 바꾸는 작업중이었음!!
                 }

@@ -74,15 +74,11 @@ namespace Assets.UltimateIsometricToolkit.Scripts.Core {
 			get { return Position + Size/2; }
 		}
 
-        public Vector3 XAxis
+        public Vector3 Axis(Vector3 vt)
         {
-            get { return new Vector3(Position.x+1, 0, 0); }
+            return Position + vt;
         }
 
-        public Vector3 ZAxis
-        {
-            get { return new Vector3(0, Position.y + 1, 0); }
-        }
 
 		/// <summary>
 		/// Isometric size of this GameObject
