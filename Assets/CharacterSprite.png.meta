@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: bce38e451beaf31448d33f8ced017350
+timeCreated: 1500958181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KakaoTalk_20170712_174850884_0
+    21300002: KakaoTalk_20170712_174850884_1
+    21300004: KakaoTalk_20170712_174850884_2
+    21300006: KakaoTalk_20170712_174850884_3
+    21300008: KakaoTalk_20170712_174850884_4
+    21300010: KakaoTalk_20170712_174850884_6
+    21300012: KakaoTalk_20170712_174850884_7
+    21300014: KakaoTalk_20170712_174850884_8
+    21300016: KakaoTalk_20170712_174850884_9
+    21300018: KakaoTalk_20170712_174850884_10
+    21300020: KakaoTalk_20170712_174850884_11
+    21300022: KakaoTalk_20170712_174850884_12
+    21300024: KakaoTalk_20170712_174850884_13
+    21300026: KakaoTalk_20170712_174850884_14
+    21300028: KakaoTalk_20170712_174850884_16
+    21300030: KakaoTalk_20170712_174850884_17
+    21300032: CharacterSprite_0
+    21300034: CharacterSprite_1
+    21300036: CharacterSprite_2
+    21300038: CharacterSprite_3
+    21300040: CharacterSprite_4
+    21300042: CharacterSprite_5
+    21300044: CharacterSprite_6
+    21300046: CharacterSprite_7
+    21300048: CharacterSprite_8
+    21300050: CharacterSprite_9
+    21300052: CharacterSprite_10
+    21300054: CharacterSprite_11
+    21300056: CharacterSprite_12
+    21300058: CharacterSprite_13
+    21300060: CharacterSprite_14
+    21300062: CharacterSprite_15
+    21300064: CharacterSprite_16
+    21300066: CharacterSprite_17
+    21300068: CharacterSprite_18
+    21300070: CharacterSprite_19
+    21300072: CharacterSprite_20
+    21300074: CharacterSprite_21
+    21300076: CharacterSprite_22
+    21300078: CharacterSprite_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterSprite_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 316
+        width: 54
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 316
+        width: 54
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 317
+        width: 54
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 316
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 316
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 316
+        width: 53
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 220
+        width: 54
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 220
+        width: 54
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 222
+        width: 54
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 220
+        width: 53
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 220
+        width: 54
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 220
+        width: 54
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 127
+        width: 53
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 126
+        width: 52
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 53
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 127
+        width: 53
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 125
+        width: 53
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 125
+        width: 52
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 32
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 30
+        width: 53
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 52
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 32
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 29
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSprite_23
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 30
+        width: 54
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
